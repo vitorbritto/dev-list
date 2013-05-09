@@ -26,6 +26,9 @@ Some helpers, generators and other cool stuff.
 * [PhoneGap](http://phonegap.com/)
 * [Sinatra](http://www.sinatrarb.com/)
 * [RVM](https://rvm.io/)
+* [Socket.io](http://socket.io/)
+* [Remote Storage](http://remotestorage.io/)
+* [Propel ORM](http://propelorm.org/)
 
 ### Generators
 
@@ -107,3 +110,6 @@ Some helpers, generators and other cool stuff.
 * [Head JS](http://headjs.com/)
 * [jQuery++](http://jquerypp.com/#get_jquery__)
 * [MicroJS Libs](http://microjs.com/#)
+ 
+### APIs
+[Deployd]http://deployd.com/

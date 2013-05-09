@@ -1,0 +1,27 @@
+# Checklist
+Simulate, validate and optimize your project.
+
+### Optimize
+* [Minify Javascript](http://minifyjavascript.com/)
+* [CSS Compressor](http://www.csscompressor.com/)
+* [Smush It](http://www.smushit.com/ysmush.it/)
+* [Google Page Speed](https://developers.google.com/speed/pagespeed/insights)
+* [Google Mobile Test](http://www.howtogomo.com/en/d/#gomo-meter)
+* [Web Page Test](http://www.webpagetest.org/)
+
+### Simulate
+* [Browser Stack](http://www.browserstack.com/)
+* [Source Labs](https://saucelabs.com/)
+* [Aobde Browser Lab](https://browserlab.adobe.com/en-us/index.html)
+* [Test iPhone](http://www.testiphone.com/)
+* [Screen Fly](http://quirktools.com/screenfly/)
+* [Responsinator](http://www.responsinator.com/)
+* [Screen Queries](http://screenqueri.es/)
+* [Responsive Is](http://responsive.is/typecast.com)
+
+### Validate
+* [HTML Code Sniffer](http://squizlabs.github.com/HTML_CodeSniffer/)
+* [HTML W3C Validator](http://validator.w3.org/)
+* [CSS W3C Validator](http://jigsaw.w3.org/css-validator/)
+* [JSHint](http://www.jshint.com/)
+* [Mobile W3C Validator](http://validator.w3.org/mobile/)

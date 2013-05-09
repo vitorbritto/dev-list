@@ -4,6 +4,7 @@ I think you got it.
 ### Documentation
 
 ##### General
+* [HTML5 Please](http://html5please.com/)
 * [Browser Diet](http://browserdiet.com/pt/)
 * [Web Platform](http://docs.webplatform.org/wiki/Main_Page)
 * [Code Standards](http://andrecomws.com/lab/code-standards/)

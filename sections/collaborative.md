@@ -21,4 +21,4 @@
 * [Snipt](https://snipt.net/)
 * [WP Snipp](http://wpsnipp.com/)
 * [WP Recipes](http://www.wprecipes.com/)
-* [WPS](http://wp-snippets.com/)
+* [WPS](http://wp-snippets.com/snippets/)

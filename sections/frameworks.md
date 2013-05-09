@@ -5,6 +5,7 @@ A bunch of cool stuff for a better development.
 ### Workflow
 * [Yeoman](http://yeoman.io/)
 * [Middleman](http://middlemanapp.com/)
+* [Serve](http://get-serve.com/)
 
 ### Front End
 * [HTML5 Boilerplate](http://html5boilerplate.com/)

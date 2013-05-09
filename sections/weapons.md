@@ -43,6 +43,7 @@ Some helpers, generators and other cool stuff.
 * [Place Cat](http://placekitten.com/)
 * [Place Dog](http://placedog.com/)
 * [Place Bear](http://placebear.com/)
+* [Lorem pixel](http://lorempixel.com/)
 
 ##### Colors
 [Hail Pixel](http://color.hailpixel.com/)
@@ -55,6 +56,7 @@ Some helpers, generators and other cool stuff.
 * [Mussum Ipsum](http://mussumipsum.com/)
 * [Bacon Ipsum](http://baconipsum.com/)
 * [CupCake Ipsum](http://cupcakeipsum.com/)
+* [Random Text](http://www.randomtext.me/)
 
 #### Css
 * [CSS3 Maker](http://www.css3maker.com/)

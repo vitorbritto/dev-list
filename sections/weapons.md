@@ -11,7 +11,6 @@ Some helpers, generators and other cool stuff.
 * [Icon Deposit](http://www.icondeposit.com/)
 * [Bower](http://twitter.github.com/bower/)
 * [Grunt](http://gruntjs.com/)
-* [Yeoman](http://yeoman.io/)
 * [Composer](http://getcomposer.org/)
 * [Doctrine](http://www.doctrine-project.org/)
 * [PHP Documentator](http://phpdoc.org/)
@@ -27,7 +26,6 @@ Some helpers, generators and other cool stuff.
 * [PhoneGap](http://phonegap.com/)
 * [Sinatra](http://www.sinatrarb.com/)
 * [RVM](https://rvm.io/)
-* [Serve](http://get-serve.com/)
 
 ### Generators
 

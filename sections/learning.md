@@ -6,3 +6,5 @@ The practice is what makes you stronger.
 * [Code School](http://www.codeschool.com)
 * [Code Tag](http://codetag.me)
 * [Learn Layout](http://learnlayout.com/)
+* [Udemy](http://udemy.com)
+* [Code](http://www.code.org/)

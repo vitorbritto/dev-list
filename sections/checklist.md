@@ -4,6 +4,7 @@ Simulate, validate and optimize your project.
 ### Optimize
 * [Minify Javascript](http://minifyjavascript.com/)
 * [CSS Compressor](http://www.csscompressor.com/)
+* [YUI Compressor](https://github.com/yui/yuicompressor)
 * [Smush It](http://www.smushit.com/ysmush.it/)
 * [Google Page Speed](https://developers.google.com/speed/pagespeed/insights)
 * [Google Mobile Test](http://www.howtogomo.com/en/d/#gomo-meter)

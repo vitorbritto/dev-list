@@ -42,8 +42,10 @@ A bunch of cool stuff for a better development.
 * [jQuery Mobile](http://jquerymobile.com/)
 * [jQTouch](http://jqtjs.com/)
 * [Phone Gap](http://phonegap.com/)
+* [Sencha Touch](http://www.sencha.com/products/touch/)
 * [Rachet - Prototype for iPhone](http://maker.github.com/ratchet/)
 
 ### Database
 * [MariaDB](https://mariadb.org/)
 * [MongoDB](http://www.mongodb.org/)
+* [Redis](http://redis.io)

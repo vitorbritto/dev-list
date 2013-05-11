@@ -23,6 +23,7 @@ Simulate, validate and optimize your project.
 ### Validate
 * [HTML Code Sniffer](http://squizlabs.github.com/HTML_CodeSniffer/)
 * [HTML W3C Validator](http://validator.w3.org/)
+* [Link Checker](http://validator.w3.org/checklink)
 * [CSS W3C Validator](http://jigsaw.w3.org/css-validator/)
 * [JSHint](http://www.jshint.com/)
 * [Mobile W3C Validator](http://validator.w3.org/mobile/)

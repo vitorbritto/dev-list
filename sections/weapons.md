@@ -2,13 +2,15 @@
 
 Some helpers, generators and other cool stuff.
 
+### Design in the Web
+* [Easel](https://www.easel.io/)
+* [Froont](http://froont.com/)
+
 ### Helpers
 * [List of CDNs](http://cdnjs.com/)
 * [Todo MVC](http://addyosmani.github.com/todomvc/)
 * [jQuery Boilerplate](http://br.jqueryboilerplate.com/)
 * [So Fresh](http://sofresh.redpik.net/)
-* [UI Cloud](http://ui-cloud.com)
-* [Icon Deposit](http://www.icondeposit.com/)
 * [Bower](http://twitter.github.com/bower/)
 * [Grunt](http://gruntjs.com/)
 * [Composer](http://getcomposer.org/)
@@ -76,7 +78,7 @@ Some helpers, generators and other cool stuff.
 
 ##### Wireframes
 * [Wireframe Builder](http://wireframe.cc/)
-* [Wireframe Builder](http://cjdsie.github.com/wirefy/)
+* [Wirefy](http://cjdsie.github.com/wirefy/)
 * [Sketchsheets Repository](http://sneakpeekit.com/browser-sketchsheets/)
 
 ### Online Editors
@@ -112,4 +114,4 @@ Some helpers, generators and other cool stuff.
 * [MicroJS Libs](http://microjs.com/#)
  
 ### APIs
-[Deployd]http://deployd.com/
+[Deployd](http://deployd.com/)

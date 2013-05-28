@@ -22,15 +22,16 @@ Some helpers, generators and other cool stuff.
 * [LESS](http://lesscss.org/)
 * [SASS](http://sass-lang.com/)
 * [Stylus](http://learnboost.github.com/stylus/)
-* [Susy - Grid for SASS](http://susy.oddbird.net/#)
-* [Bourbon - Mixins for SASS](http://bourbon.io/)
-* [Bourbon NEAT - Grid for SASS](http://neat.bourbon.io/)
+* [Bourbon - Mixins Library](http://bourbon.io/)
+* [NEAT - Grid System](http://neat.bourbon.io/)
+* [Susy - Grid System](http://susy.oddbird.net/#)
 * [PhoneGap](http://phonegap.com/)
 * [Sinatra](http://www.sinatrarb.com/)
 * [RVM](https://rvm.io/)
 * [Socket.io](http://socket.io/)
 * [Remote Storage](http://remotestorage.io/)
 * [Propel ORM](http://propelorm.org/)
+* [Rainbow - Syntax Highlight](http://craig.is/making/rainbows)
 
 ### Generators
 
@@ -114,4 +115,4 @@ Some helpers, generators and other cool stuff.
 * [MicroJS Libs](http://microjs.com/#)
  
 ### APIs
-[Deployd](http://deployd.com/)
+* [Deployd](http://deployd.com/)

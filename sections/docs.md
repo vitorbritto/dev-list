@@ -31,3 +31,6 @@ I think you got it.
 
 ##### Ruby / Rails
 * [Ruby on Rails API](http://api.rubyonrails.org/)
+
+##### GIT
+* [Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)

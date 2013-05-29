@@ -46,6 +46,7 @@ A bunch of cool stuff for a better development.
 * [Phone Gap](http://phonegap.com/)
 * [Sencha Touch](http://www.sencha.com/products/touch/)
 * [Rachet - Prototype for iPhone](http://maker.github.com/ratchet/)
+* [TideSDK](http://www.tidesdk.org/)
 
 ### Database
 * [MariaDB](https://mariadb.org/)

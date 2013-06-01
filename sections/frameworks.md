@@ -38,6 +38,7 @@ A bunch of cool stuff for a better development.
 * [Hoodie](http://hood.ie/)
 * [No Backend](http://nobackend.org/)
 * [Montage JS](http://montagejs.org/)
+* [Ext JS](http://www.sencha.com/products/extjs/)
 
 ### Mobile
 * [Lungo](http://lungo.tapquo.com/)

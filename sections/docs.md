@@ -13,6 +13,7 @@ I think you got it.
 * [Dochub](http://dochub.io/)
 * [Google Dev Tools CheatSheet](http://anti-code.com/devtools-cheatsheet/)
 * [OverAPI CheatSheet](http://overapi.com/)
+* [A-Z Index for Bash Commands](http://ss64.com/bash/)
 
 ##### Logic-Less Templates
 * [Slim](http://slim-lang.com/)

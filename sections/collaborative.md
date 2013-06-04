@@ -22,3 +22,6 @@
 * [WP Snipp](http://wpsnipp.com/)
 * [WP Recipes](http://www.wprecipes.com/)
 * [WPS](http://wp-snippets.com/snippets/)
+
+### Techies
+* [SetApp](http://setapp.me/)

@@ -14,6 +14,7 @@ I think you got it.
 * [Google Dev Tools CheatSheet](http://anti-code.com/devtools-cheatsheet/)
 * [OverAPI CheatSheet](http://overapi.com/)
 * [A-Z Index for Bash Commands](http://ss64.com/bash/)
+* [Dotfiles](http://dotfiles.github.io/)
 
 ##### Logic-Less Templates
 * [Slim](http://slim-lang.com/)
@@ -40,3 +41,4 @@ I think you got it.
 
 ##### GIT
 * [Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
+

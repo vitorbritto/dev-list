@@ -24,6 +24,11 @@ I think you got it.
 * [Dive Into HTML5](http://diveintohtml5.com.br/index.html)
 * [HTML5 Guide - Tableless](http://tableless.com.br/html5/)
 
+##### CSS
+* [Idiomatic CSS](https://github.com/necolas/idiomatic-css)
+* [SMACSS](http://smacss.com/)
+* [BEM](http://bem.info/method/)
+
 ##### JavaScript
 * [JS - The Right Way Documentation](http://jstherightway.com/)
 

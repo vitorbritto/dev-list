@@ -32,6 +32,7 @@ I think you got it.
 
 ##### JavaScript
 * [JS - The Right Way Documentation](http://jstherightway.com/)
+* [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
 
 ##### PHP
 * [PHP - The Right Way Documentation](http://www.phptherightway.com/)
@@ -41,4 +42,3 @@ I think you got it.
 
 ##### GIT
 * [Guia Prático](http://rogerdudler.github.io/git-guide/index.pt_BR.html)
-

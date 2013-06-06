@@ -31,10 +31,14 @@ I think you got it.
 * [BEM](http://bem.info/method/)
 
 ##### JavaScript
+* [Annotated ES5](http://es5.github.io/)
+* [ECMAScript](http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf)
 * [JS - The Right Way Documentation](http://jstherightway.com/)
 * [Idiomatic JS](https://github.com/rwldrn/idiomatic.js/)
+* [JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ##### PHP
+* [PHP Manual](http://www.php.net/manual/en/index.php)
 * [PHP - The Right Way Documentation](http://www.phptherightway.com/)
 
 ##### Ruby / Rails

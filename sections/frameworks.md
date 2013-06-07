@@ -31,6 +31,7 @@ A bunch of cool stuff for a better development.
 ### Static Generators
 * [Jekyll](http://jekyllrb.com/)
 * [DocPad](http://docpad.org/)
+* [Serve](http://get-serve.com/)
 
 ### Web Apps
 * [Angular](http://angularjs.org/)
@@ -51,8 +52,3 @@ A bunch of cool stuff for a better development.
 * [Sencha Touch](http://www.sencha.com/products/touch/)
 * [Rachet - Prototype for iPhone](http://maker.github.com/ratchet/)
 * [TideSDK](http://www.tidesdk.org/)
-
-### Database
-* [MariaDB](https://mariadb.org/)
-* [MongoDB](http://www.mongodb.org/)
-* [Redis](http://redis.io)

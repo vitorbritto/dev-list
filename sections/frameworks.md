@@ -2,11 +2,6 @@
 
 A bunch of cool stuff for a better development.
 
-### Workflow
-* [Yeoman](http://yeoman.io/)
-* [Middleman](http://middlemanapp.com/)
-* [Serve](http://get-serve.com/)
-
 ### Front End
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Alloy UI](http://alloyui.com/)
@@ -28,6 +23,10 @@ A bunch of cool stuff for a better development.
 * [Code Igniter](http://ellislab.com/codeigniter)
 * [Laravel](http://laravel.com/)
 * [Bones](http://themble.com/bones/)
+
+### Static Generators
+* [Jekyll](http://jekyllrb.com/)
+* [DocPad](http://docpad.org/)
 
 ### Web Apps
 * [Angular](http://angularjs.org/)

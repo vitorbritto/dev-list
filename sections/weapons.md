@@ -31,6 +31,7 @@ Some helpers, generators and other cool stuff.
 * [Remote Storage](http://remotestorage.io/)
 * [Propel ORM](http://propelorm.org/)
 * [Rainbow - Syntax Highlight](http://craig.is/making/rainbows)
+* [So Fresh](http://sofresh.redpik.net/)
 
 ### Generators
 

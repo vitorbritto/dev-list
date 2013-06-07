@@ -24,7 +24,7 @@ A bunch of cool stuff for a better development.
 * [Symfony](http://symfony.com/)
 * [Code Igniter](http://ellislab.com/codeigniter)
 * [Laravel](http://laravel.com/)
-* 
+
 #### WordPress
 * [Bones](http://themble.com/bones/)
 

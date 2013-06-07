@@ -52,3 +52,4 @@ A bunch of cool stuff for a better development.
 * [Sencha Touch](http://www.sencha.com/products/touch/)
 * [Rachet - Prototype for iPhone](http://maker.github.com/ratchet/)
 * [TideSDK](http://www.tidesdk.org/)
+* [Flat UI Theme](https://github.com/ququplay/jquery-mobile-flat-ui-theme)

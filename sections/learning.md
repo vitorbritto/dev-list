@@ -8,3 +8,6 @@ The practice is what makes you stronger.
 * [Learn Layout](http://learnlayout.com/)
 * [Udemy](http://udemy.com)
 * [Code](http://www.code.org/)
+* [10Gen Education](https://education.10gen.com/)
+* [Web Development Teaching Materials](http://www.teaching-materials.org/)
+* [Designer School](http://designer-school.com/)

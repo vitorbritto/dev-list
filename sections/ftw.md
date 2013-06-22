@@ -8,3 +8,4 @@ You need to see this! I meaning, it's really cool!
 * [Moonbase - Playing with Parallax](http://moonbase.com/)
 * [Unheap - jQuery Plugins Repository](http://www.unheap.com/)
 * [WebPlatformTools](http://webplatformtools.org/)
+* [The Expressive Web](http://beta.theexpressiveweb.com/)

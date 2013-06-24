@@ -7,3 +7,4 @@ Some tools for a better workflow.
 * [Bower](http://twitter.github.com/bower/)
 * [Grunt](http://gruntjs.com/)
 * [Composer](http://getcomposer.org/)
+* [Node GH](http://nodegh.io/)

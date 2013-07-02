@@ -25,3 +25,10 @@ Some tools for a better workflow.
 
 ### Automation
 * [Node GH](http://nodegh.io/)
+
+### Design in the Browser
+* [Easel](https://www.easel.io/)
+* [Froont](http://froont.com/)
+* [LayoutIt!](http://www.layoutit.com/build)
+* [JetStrap](http://jetstrap.com/)
+* [Bootstrap Magic](http://pikock.github.com/bootstrap-magic)

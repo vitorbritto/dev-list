@@ -2,13 +2,6 @@
 
 Some helpers, generators and other cool stuff.
 
-### Design in the Web
-* [Easel](https://www.easel.io/)
-* [Froont](http://froont.com/)
-* [LayoutIt!](http://www.layoutit.com/build)
-* [JetStrap](http://jetstrap.com/)
-* [Bootstrap Magic](http://pikock.github.com/bootstrap-magic)
-
 ### Helpers
 * [List of CDNs](http://cdnjs.com/)
 * [Todo MVC](http://addyosmani.github.com/todomvc/)

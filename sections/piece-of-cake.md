@@ -1,39 +1,39 @@
-# Piece of Cake #
+# Piece of Cake
 
 A bunch of cool stuff for a better development.
 
-### Front End
+## Front End
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Alloy UI](http://alloyui.com/)
 * [Bootstrap](http://twitter.github.com/bootstrap/)
 * [Foundation](http://foundation.zurb.com/)
 * [Flat UI](http://designmodo.com/flat-free/)
 * [Gumby](http://gumbyframework.com/)
-* [Metro UI](http://metroui.org.ua/) 
+* [Metro UI](http://metroui.org.ua/)
 * [Kule](http://www.kule.tw/)
 * [Fluel UX - Bootstrap Extension](http://exacttarget.github.com/fuelux/)
 * [Compass - SASS Framework](http://compass-style.org/)
 * [GroundworkCSS](http://groundwork.sidereel.com/home)
 * [PureCSS](http://purecss.io/)
 
-### Back End
+## Back End
 
-#### PHP
+### PHP
 * [Cake PHP](http://cakephp.org/)
 * [Zend Framework](http://framework.zend.com/)
 * [Symfony](http://symfony.com/)
 * [Code Igniter](http://ellislab.com/codeigniter)
 * [Laravel](http://laravel.com/)
 
-#### WordPress
+### WordPress
 * [Bones](http://themble.com/bones/)
 
-### Static Generators
+## Static Generators
 * [Jekyll](http://jekyllrb.com/)
 * [DocPad](http://docpad.org/)
 * [Serve](http://get-serve.com/)
 
-### Web Apps
+## Web Apps
 * [Angular](http://angularjs.org/)
 * [Ember](http://emberjs.com/)
 * [Backbone](http://documentcloud.github.io/backbone/)
@@ -44,7 +44,7 @@ A bunch of cool stuff for a better development.
 * [Montage JS](http://montagejs.org/)
 * [ExtJS](http://www.sencha.com/products/extjs/)
 
-### Mobile
+## Mobile
 * [Lungo](http://lungo.tapquo.com/)
 * [jQuery Mobile](http://jquerymobile.com/)
 * [jQTouch](http://jqtjs.com/)
@@ -53,3 +53,6 @@ A bunch of cool stuff for a better development.
 * [Rachet - Prototype for iPhone](http://maker.github.com/ratchet/)
 * [TideSDK](http://www.tidesdk.org/)
 * [Flat UI Theme](https://github.com/ququplay/jquery-mobile-flat-ui-theme)
+
+## Newsletters
+* [HTML5 Email Boilerplate](http://htmlemailboilerplate.com/)

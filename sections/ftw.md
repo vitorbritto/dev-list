@@ -1,4 +1,4 @@
-## Going Nuts
+# Going Nuts
 
 You need to see this! I meaning, it's really cool!
 

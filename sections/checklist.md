@@ -2,11 +2,11 @@
 Simulate, validate and optimize your project.
 
 
-### Usability
+## Usability
 [Web Developer Checklist](http://webdevchecklist.com/)
 [Userium](http://userium.com/)
 
-### Optimize
+## Optimize
 * [Minify Javascript](http://minifyjavascript.com/)
 * [CSS Compressor](http://www.csscompressor.com/)
 * [YUI Compressor](https://github.com/yui/yuicompressor)
@@ -16,7 +16,7 @@ Simulate, validate and optimize your project.
 * [Google Mobile Test](http://www.howtogomo.com/en/d/#gomo-meter)
 * [Web Page Test](http://www.webpagetest.org/)
 
-### Simulate
+## Simulate
 * [Browser Stack](http://www.browserstack.com/)
 * [Source Labs](https://saucelabs.com/)
 * [Test iPhone](http://www.testiphone.com/)
@@ -25,7 +25,7 @@ Simulate, validate and optimize your project.
 * [Screen Queries](http://screenqueri.es/)
 * [Responsive Is](http://responsive.is/typecast.com)
 
-### Validate
+## Validate
 * [HTML Code Sniffer](http://squizlabs.github.com/HTML_CodeSniffer/)
 * [HTML W3C Validator](http://validator.w3.org/)
 * [Link Checker](http://validator.w3.org/checklink)

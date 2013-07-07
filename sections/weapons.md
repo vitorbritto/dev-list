@@ -2,7 +2,7 @@
 
 Some helpers, generators and other cool stuff.
 
-### Helpers
+## Helpers
 * [List of CDNs](http://cdnjs.com/)
 * [Todo MVC](http://addyosmani.github.com/todomvc/)
 * [jQuery Boilerplate](http://br.jqueryboilerplate.com/)
@@ -26,9 +26,9 @@ Some helpers, generators and other cool stuff.
 * [Rainbow - Syntax Highlight](http://craig.is/making/rainbows)
 * [So Fresh](http://sofresh.redpik.net/)
 
-### Generators
+## Generators
 
-##### Images
+### Images
 * [Subtle Patterns](http://subtlepatterns.com/)
 * [Sprite Cow](http://www.spritecow.com/)
 * [Sprite Pad](http://spritepad.wearekiss.com/)
@@ -40,10 +40,10 @@ Some helpers, generators and other cool stuff.
 * [Place Bear](http://placebear.com/)
 * [Lorem pixel](http://lorempixel.com/)
 
-##### Colors
+### Colors
 [Hail Pixel](http://color.hailpixel.com/)
 
-##### Fonts
+### Fonts
 * [Google Web Fonts](http://www.google.com/webfonts)
 * [Font Squirrel](http://www.fontsquirrel.com/)
 * [Cufon](http://cufon.shoqolate.com/generate/)
@@ -53,25 +53,26 @@ Some helpers, generators and other cool stuff.
 * [CupCake Ipsum](http://cupcakeipsum.com/)
 * [Random Text](http://www.randomtext.me/)
 
-#### Css
+### Css
 * [CSS3 Maker](http://www.css3maker.com/)
 * [CSS3 Generator](http://css3generator.com/)
 * [CSS Drop Shadows](http://nicolasgallagher.com/css-drop-shadows-without-images/demo/)
 * [CSS Social Buttons](http://webdesignerwall.com/demo/css-social-buttons/)
 * [Media Query Builder](http://arcsec.ca/media-query-builder/)
 
-##### Icons
+### Icons
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
 * [Icons Generator](http://www.gieson.com/Library/projects/utilities/icon_slayer)
 * [Fav Icon Generator](http://favicon-generator.org/)
 * [Load Icon generator](http://ajaxload.info/)
+* [Fontello](http://fontello.com/)
 
-##### Wireframes
+### Wireframes
 * [Wireframe Builder](http://wireframe.cc/)
 * [Wirefy](http://cjdsie.github.com/wirefy/)
 * [Sketchsheets Repository](http://sneakpeekit.com/browser-sketchsheets/)
 
-### Online Editors
+## Online Editors
 * [Code Pen](http://codepen.io/)
 * [CSS Deck](http://cssdeck.com)
 * [Dabblet](http://dabblet.com/)
@@ -81,7 +82,7 @@ Some helpers, generators and other cool stuff.
 * [Plunker](http://plnkr.co)
 * [PHP Bin](http://phpbin.net/)
 
-### Apps
+## Apps
 * [Sublime Text - Cross-platform](http://www.sublimetext.com/)
 * [Brackets - Cross-platform](http://brackets.io/)
 * [Code Kit - Mac](http://incident57.com/codekit/)
@@ -98,10 +99,8 @@ Some helpers, generators and other cool stuff.
 * [Fire.app - Cross-platform](http://fireapp.handlino.com/)
 * [CSS Hat - Win/Mac](http://csshat.com/)
 
-### Plugins & Libs
-* [Head JS](http://headjs.com/)
-* [jQuery++](http://jquerypp.com/#get_jquery__)
-* [MicroJS Libs](http://microjs.com/#)
- 
-### APIs
+## Plugins & Libs
+* [Check **I am your father** repository]()
+
+## APIs
 * [Deployd](http://deployd.com/)

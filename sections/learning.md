@@ -1,4 +1,4 @@
-## Let's Rock
+# Let's Rock
 The practice is what makes you stronger.
 
 * [Code Squad](http://code-squad.com/)

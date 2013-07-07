@@ -14,6 +14,7 @@ Some helpers, generators and other cool stuff.
 * [LESS](http://lesscss.org/)
 * [SASS](http://sass-lang.com/)
 * [Stylus](http://learnboost.github.com/stylus/)
+* [Compass - SASS Framework](http://compass-style.org/)
 * [Bourbon - Mixins Library](http://bourbon.io/)
 * [NEAT - Grid System](http://neat.bourbon.io/)
 * [Susy - Grid System](http://susy.oddbird.net/#)
@@ -62,10 +63,12 @@ Some helpers, generators and other cool stuff.
 
 ### Icons
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
+* [Fontello](http://fontello.com/)
+* [IconMoon](http://icomoon.io/)
+* [Symbolset](http://symbolset.com/)
 * [Icons Generator](http://www.gieson.com/Library/projects/utilities/icon_slayer)
 * [Fav Icon Generator](http://favicon-generator.org/)
 * [Load Icon generator](http://ajaxload.info/)
-* [Fontello](http://fontello.com/)
 
 ### Wireframes
 * [Wireframe Builder](http://wireframe.cc/)
@@ -99,8 +102,8 @@ Some helpers, generators and other cool stuff.
 * [Fire.app - Cross-platform](http://fireapp.handlino.com/)
 * [CSS Hat - Win/Mac](http://csshat.com/)
 
-## Plugins & Libs
-* [Check **I am your father** repository]()
+## Tons of plugins and libs
+* [Check **I am your father** repository](https://github.com/vitorbritto/i-am-your-father)
 
 ## APIs
 * [Deployd](http://deployd.com/)

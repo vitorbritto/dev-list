@@ -60,12 +60,15 @@ Some helpers, generators and other cool stuff.
 * [CSS Drop Shadows](http://nicolasgallagher.com/css-drop-shadows-without-images/demo/)
 * [CSS Social Buttons](http://webdesignerwall.com/demo/css-social-buttons/)
 * [Media Query Builder](http://arcsec.ca/media-query-builder/)
+* [Stylie - CSS3 Animation](http://jeremyckahn.github.io/stylie/)
+* [CSSMatic](http://www.cssmatic.com/)
 
 ### Icons
 * [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
 * [Fontello](http://fontello.com/)
 * [IconMoon](http://icomoon.io/)
 * [Symbolset](http://symbolset.com/)
+* [Fontastic](http://fontastic.me/)
 * [Icons Generator](http://www.gieson.com/Library/projects/utilities/icon_slayer)
 * [Fav Icon Generator](http://favicon-generator.org/)
 * [Load Icon generator](http://ajaxload.info/)
@@ -84,6 +87,7 @@ Some helpers, generators and other cool stuff.
 * [Paste Bin](http://pastebin.com)
 * [Plunker](http://plnkr.co)
 * [PHP Bin](http://phpbin.net/)
+* [Require Bin](http://requirebin.com/)
 
 ## Apps
 * [Sublime Text - Cross-platform](http://www.sublimetext.com/)

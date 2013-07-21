@@ -6,24 +6,6 @@ Some helpers, generators and other cool stuff.
 * [List of CDNs](http://cdnjs.com/)
 * [Todo MVC](http://addyosmani.github.com/todomvc/)
 * [jQuery Boilerplate](http://br.jqueryboilerplate.com/)
-* [Doctrine](http://www.doctrine-project.org/)
-* [PHP Documentator](http://phpdoc.org/)
-* [PEAR](http://pear.php.net/)
-* [Jade](http://jade-lang.com/)
-* [HAML](http://haml.info/)
-* [LESS](http://lesscss.org/)
-* [SASS](http://sass-lang.com/)
-* [Stylus](http://learnboost.github.com/stylus/)
-* [Compass - SASS Framework](http://compass-style.org/)
-* [Bourbon - Mixins Library](http://bourbon.io/)
-* [NEAT - Grid System](http://neat.bourbon.io/)
-* [Susy - Grid System](http://susy.oddbird.net/#)
-* [PhoneGap](http://phonegap.com/)
-* [Sinatra](http://www.sinatrarb.com/)
-* [RVM](https://rvm.io/)
-* [Socket.io](http://socket.io/)
-* [Remote Storage](http://remotestorage.io/)
-* [Propel ORM](http://propelorm.org/)
 * [Rainbow - Syntax Highlight](http://craig.is/making/rainbows)
 * [So Fresh](http://sofresh.redpik.net/)
 
@@ -42,7 +24,7 @@ Some helpers, generators and other cool stuff.
 * [Lorem pixel](http://lorempixel.com/)
 
 ### Colors
-[Hail Pixel](http://color.hailpixel.com/)
+* [Hail Pixel](http://color.hailpixel.com/)
 
 ### Fonts
 * [Google Web Fonts](http://www.google.com/webfonts)

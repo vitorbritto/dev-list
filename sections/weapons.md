@@ -8,6 +8,7 @@ Some helpers, generators and other cool stuff.
 * [jQuery Boilerplate](http://br.jqueryboilerplate.com/)
 * [Rainbow - Syntax Highlight](http://craig.is/making/rainbows)
 * [So Fresh](http://sofresh.redpik.net/)
+* [HTML5 Input Patterns](http://html5pattern.com/)
 
 ## Generators
 

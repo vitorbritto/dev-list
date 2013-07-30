@@ -55,6 +55,7 @@ Some helpers, generators and other cool stuff.
 * [Icons Generator](http://www.gieson.com/Library/projects/utilities/icon_slayer)
 * [Fav Icon Generator](http://favicon-generator.org/)
 * [Load Icon generator](http://ajaxload.info/)
+* [Favikon](http://www.favikon.com/)
 
 ### Wireframes
 * [Wireframe Builder](http://wireframe.cc/)
@@ -71,6 +72,7 @@ Some helpers, generators and other cool stuff.
 * [Plunker](http://plnkr.co)
 * [PHP Bin](http://phpbin.net/)
 * [Require Bin](http://requirebin.com/)
+* [Sass Meister](http://sassmeister.com/)
 
 ## Apps
 * [Sublime Text - Cross-platform](http://www.sublimetext.com/)

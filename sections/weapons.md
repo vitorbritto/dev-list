@@ -52,6 +52,7 @@ Some helpers, generators and other cool stuff.
 * [IconMoon](http://icomoon.io/)
 * [Symbolset](http://symbolset.com/)
 * [Fontastic](http://fontastic.me/)
+* [IcoSmith](http://icosmith.com/)
 * [Icons Generator](http://www.gieson.com/Library/projects/utilities/icon_slayer)
 * [Fav Icon Generator](http://favicon-generator.org/)
 * [Load Icon generator](http://ajaxload.info/)

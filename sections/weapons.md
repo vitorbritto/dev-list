@@ -63,18 +63,6 @@ Some helpers, generators and other cool stuff.
 * [Wirefy](http://cjdsie.github.com/wirefy/)
 * [Sketchsheets Repository](http://sneakpeekit.com/browser-sketchsheets/)
 
-## Online Editors
-* [Code Pen](http://codepen.io/)
-* [CSS Deck](http://cssdeck.com)
-* [Dabblet](http://dabblet.com/)
-* [JS Fiddle](http://jsfiddle.net)
-* [JS Bin](http://jsbin.com)
-* [Paste Bin](http://pastebin.com)
-* [Plunker](http://plnkr.co)
-* [PHP Bin](http://phpbin.net/)
-* [Require Bin](http://requirebin.com/)
-* [Sass Meister](http://sassmeister.com/)
-
 ## Apps
 * [Sublime Text - Cross-platform](http://www.sublimetext.com/)
 * [Brackets - Cross-platform](http://brackets.io/)

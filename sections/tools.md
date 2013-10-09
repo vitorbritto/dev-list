@@ -27,6 +27,7 @@ Some tools for a better workflow.
 * [Grunt](http://gruntjs.com/)
 * [Bunch](http://brunch.io/)
 * [Flour](http://ricardo.cc/cake-flour/)
+* [Guard](http://guardgem.org/)
 
 ### Automation
 * [Node GH](http://nodegh.io/)

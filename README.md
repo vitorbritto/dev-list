@@ -1,4 +1,4 @@
-# A BADASS list <small style="color: gray"> for faster Web Development! </small>
+## A BADASS list for faster Web Development!
 
 Recently, I decided to organize my bookmarks. So, like a good fellow, I am sharing with you. I hope you enjoy!
 

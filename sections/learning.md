@@ -11,3 +11,5 @@ The practice is what makes you stronger.
 * [10Gen Education](https://education.10gen.com/)
 * [Web Development Teaching Materials](http://www.teaching-materials.org/)
 * [Designer School](http://designer-school.com/)
+* [Node School](http://nodeschool.io/)
+* [Pratice](http://timevko.com/practice)

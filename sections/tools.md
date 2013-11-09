@@ -2,7 +2,7 @@
 
 Some tools for a better workflow.
 
-###Pre Processors
+### Pre Processors
 * [LESS](http://lesscss.org/)
 * [Sass](http://sass-lang.com/)
 * [Stylus](http://learnboost.github.io/stylus/)
@@ -10,10 +10,14 @@ Some tools for a better workflow.
 
 ### Generators
 * [Yeoman](http://yeoman.io/)
+* [Assemble](http://assemble.io/)
 * [Middleman](http://middlemanapp.com/)
 * [Serve](http://get-serve.com/)
 * [JeKyll](http://jekyllrb.com/)
 * [DocPad](http://docpad.org/)
+* [Hexo](http://zespia.tw/hexo/)
+* [Ghost](https://ghost.org/)
+* [Cabin](http://www.cabinjs.com/)
 
 ### Packages Managers
 * [Bower](http://bower.io/)
@@ -28,9 +32,7 @@ Some tools for a better workflow.
 * [Bunch](http://brunch.io/)
 * [Flour](http://ricardo.cc/cake-flour/)
 * [Guard](http://guardgem.org/)
-
-### Automation
-* [Node GH](http://nodegh.io/)
+* [Automaton](http://indigounited.com/automaton/)
 
 ### Design in the Browser
 * [Easel](https://www.easel.io/)
@@ -51,3 +53,7 @@ Some tools for a better workflow.
 * [PHP Bin](http://phpbin.net/)
 * [Require Bin](http://requirebin.com/)
 * [Sass Meister](http://sassmeister.com/)
+
+## Automation
+* [Node GH](http://nodegh.io/)
+

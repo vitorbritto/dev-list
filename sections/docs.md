@@ -5,6 +5,7 @@ I think you got it.
 ## Documentation
 
 #### General
+* [DevDocs](http://devdocs.io/)
 * [HTML5 Please](http://html5please.com/)
 * [Browser Diet](http://browserdiet.com/pt/)
 * [Web Platform](http://docs.webplatform.org/wiki/Main_Page)
@@ -21,7 +22,7 @@ I think you got it.
 #### Logic-Less Templates
 * [Slim](http://slim-lang.com/)
 * [Mustache](http://mustache.github.com/)
-* [Handle Bars JS](http://handlebarsjs.com/)
+* [Handlebars](http://handlebarsjs.com/)
 
 #### HTML 5
 * [Dive Into HTML5](http://diveintohtml5.com.br/index.html)

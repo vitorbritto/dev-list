@@ -32,3 +32,6 @@ Simulate, validate and optimize your project.
 * [CSS W3C Validator](http://jigsaw.w3.org/css-validator/)
 * [JSHint](http://www.jshint.com/)
 * [Mobile W3C Validator](http://validator.w3.org/mobile/)
+
+## Tests
+* [Travis CI](http://about.travis-ci.org/pt-BR/docs)

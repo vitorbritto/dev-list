@@ -3,6 +3,8 @@
 A bunch of cool stuff for a better development.
 
 ## Front End
+
+### CSS
 * [HTML5 Boilerplate](http://html5boilerplate.com/)
 * [Alloy UI](http://alloyui.com/)
 * [Bootstrap](http://twitter.github.com/bootstrap/)
@@ -15,6 +17,19 @@ A bunch of cool stuff for a better development.
 * [GroundworkCSS](http://groundwork.sidereel.com/home)
 * [PureCSS](http://purecss.io/)
 * [Bootmetro](http://aozora.github.io/bootmetro/index.html)
+* [uikit](http://www.getuikit.com/)
+* [Top Coat](http://topcoat.io/)
+
+### JavaScript
+* [Angular](http://angularjs.org/)
+* [Ember](http://emberjs.com/)
+* [Backbone](http://documentcloud.github.io/backbone/)
+* [Meteor](http://meteor.com/)
+* [H9RBS.js](http://html9responsiveboilerstrapjs.com/)
+* [Hoodie](http://hood.ie/)
+* [No Backend](http://nobackend.org/)
+* [Montage JS](http://montagejs.org/)
+* [ExtJS](http://www.sencha.com/products/extjs/)
 
 ## Back End
 
@@ -28,21 +43,8 @@ A bunch of cool stuff for a better development.
 ### WordPress
 * [Bones](http://themble.com/bones/)
 
-## Static Generators
-* [Jekyll](http://jekyllrb.com/)
-* [DocPad](http://docpad.org/)
-* [Serve](http://get-serve.com/)
-
-## Web Apps
-* [Angular](http://angularjs.org/)
-* [Ember](http://emberjs.com/)
-* [Backbone](http://documentcloud.github.io/backbone/)
-* [Meteor](http://meteor.com/)
-* [H9RBS.js](http://html9responsiveboilerstrapjs.com/)
-* [Hoodie](http://hood.ie/)
-* [No Backend](http://nobackend.org/)
-* [Montage JS](http://montagejs.org/)
-* [ExtJS](http://www.sencha.com/products/extjs/)
+### Rails
+* [Sinatra]()
 
 ## Mobile
 * [Lungo](http://lungo.tapquo.com/)
@@ -50,9 +52,10 @@ A bunch of cool stuff for a better development.
 * [jQTouch](http://jqtjs.com/)
 * [Phone Gap](http://phonegap.com/)
 * [Sencha Touch](http://www.sencha.com/products/touch/)
-* [Rachet - Prototype for iPhone](http://maker.github.com/ratchet/)
+* [Rachet](http://maker.github.com/ratchet/)
 * [TideSDK](http://www.tidesdk.org/)
 * [Flat UI Theme](https://github.com/ququplay/jquery-mobile-flat-ui-theme)
 
 ## Newsletters
-* [HTML5 Email Boilerplate](http://htmlemailboilerplate.com/)
+* [HTML5EB - Email Boilerplate](http://htmlemailboilerplate.com/)
+* [Ink - Responsive Emails](http://zurb.com/ink/)

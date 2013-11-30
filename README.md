@@ -3,6 +3,7 @@
 Recently, I decided to organize my bookmarks. So, like a good fellow, I am sharing with you. I hope you enjoy!
 
 * [Tools](/sections/tools.md)
+* [Apps](/sections/apps.md)
 * [Piece of Cake](/sections/piece-of-cake.md)
 * [Weapons](/sections/weapons.md)
 * [Databases](/sections/databases.md)

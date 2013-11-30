@@ -63,23 +63,6 @@ Some helpers, generators and other cool stuff.
 * [Wirefy](http://cjdsie.github.com/wirefy/)
 * [Sketchsheets Repository](http://sneakpeekit.com/browser-sketchsheets/)
 
-## Apps
-* [Sublime Text - Cross-platform](http://www.sublimetext.com/)
-* [Brackets - Cross-platform](http://brackets.io/)
-* [Code Kit - Mac](http://incident57.com/codekit/)
-* [Source Tree - Mac](http://www.sourcetreeapp.com/)
-* [Code Box - Mac](http://www.codeboxapp.com/)
-* [ia Writer - Mac](http://www.iawriter.com/mac/)
-* [Hammer](http://hammerformac.com/)
-* [Compass.app - Win/Mac](http://compass.handlino.com/)
-* [Scout - Cross-platform](http://mhs.github.com/scout-app/)
-* [Less.app - Mac](http://incident57.com/less/)
-* [SimpLESS - Win/Mac](http://wearekiss.com/simpless)
-* [WinLESS - Win](http://winless.org/)
-* [Anvil - Mac](http://anvilformac.com/)
-* [Fire.app - Cross-platform](http://fireapp.handlino.com/)
-* [CSS Hat - Win/Mac](http://csshat.com/)
-
 ## Tons of plugins and libs
 * [Check **I am your father** repository](https://github.com/vitorbritto/i-am-your-father)
 

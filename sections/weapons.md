@@ -23,9 +23,11 @@ Some helpers, generators and other cool stuff.
 * [Place Dog](http://placedog.com/)
 * [Place Bear](http://placebear.com/)
 * [Lorem pixel](http://lorempixel.com/)
+* [Fake images please?](http://fakeimg.pl/)
 
 ### Colors
 * [Hail Pixel](http://color.hailpixel.com/)
+* [colourcode](http://www.colourco.de/)
 
 ### Fonts
 * [Google Web Fonts](http://www.google.com/webfonts)

@@ -3,6 +3,7 @@
 ## Q&A sites
 * [Stack Exchange](http://stackexchange.com/)
 * [Stack Overflow](http://stackoverflow.com/)
+* [Stack Overflow Brasil](http://br.stackoverflow.com/)
 * [Wordpress Answers](http://wordpress.stackexchange.com/)
 * [Database Administrators](http://dba.stackexchange.com/)
 * [Server Fault](http://serverfault.com/)

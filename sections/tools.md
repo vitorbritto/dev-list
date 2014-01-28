@@ -26,10 +26,13 @@ Some tools for a better workflow.
 * [Volo](http://volojs.org/)
 * [Component](https://github.com/component/component)
 * [Composer](http://getcomposer.org/)
+* [Rails Assets](https://rails-assets.org/)
+* [Bundler](http://bundler.io/)
 
 ### Tasks Managers
 * [Grunt](http://gruntjs.com/)
-* [Bunch](http://brunch.io/)
+* [Gulp](http://gulpjs.com/)
+* [Brunch](http://brunch.io/)
 * [Flour](http://ricardo.cc/cake-flour/)
 * [Guard](http://guardgem.org/)
 * [Automaton](http://indigounited.com/automaton/)

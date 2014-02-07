@@ -28,6 +28,7 @@ Some tools for a better workflow.
 * [Composer](http://getcomposer.org/)
 * [Rails Assets](https://rails-assets.org/)
 * [Bundler](http://bundler.io/)
+* [Rudix](http://rudix.org/)
 
 ### Tasks Managers
 * [Grunt](http://gruntjs.com/)

@@ -16,4 +16,5 @@
 * [Fire.app](http://fireapp.handlino.com/) - Cross-platform
 * [CSS Hat](http://csshat.com/) - Win/Mac
 * [Screenflick](http://www.araelium.com/screenflick) - Mac
-* [Shuttle - A simple SSH shortcut menu for OS X](http://fitztrev.github.io/shuttle/) - Mac
+* [Shuttle](http://fitztrev.github.io/shuttle/) - Mac
+* [Atom](https://atom.io/)

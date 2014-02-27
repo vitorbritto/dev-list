@@ -43,8 +43,8 @@ A bunch of cool stuff for a better development.
 ### WordPress
 * [Bones](http://themble.com/bones/)
 
-### Rails
-* [Sinatra]()
+### Ruby
+* [Sinatra](http://www.sinatrarb.com/)
 
 ## Mobile
 * [Lungo](http://lungo.tapquo.com/)

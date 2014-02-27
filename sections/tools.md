@@ -2,13 +2,13 @@
 
 Some tools for a better workflow.
 
-### Pre Processors
+### Preprocessors
 * [LESS](http://lesscss.org/)
 * [Sass](http://sass-lang.com/)
 * [Stylus](http://learnboost.github.io/stylus/)
 * [Roole](http://roole.org/)
 
-### Generators
+### Static Generators
 * [Yeoman](http://yeoman.io/)
 * [Assemble](http://assemble.io/)
 * [Middleman](http://middlemanapp.com/)
@@ -18,8 +18,11 @@ Some tools for a better workflow.
 * [Hexo](http://zespia.tw/hexo/)
 * [Ghost](https://ghost.org/)
 * [Cabin](http://www.cabinjs.com/)
+* [Harp](http://harpjs.com/)
 
 ### Packages Managers
+* [Rudix](http://rudix.org/)
+* [Homebrew](http://brew.sh/)
 * [Bower](http://bower.io/)
 * [Jam](http://jamjs.org/)
 * [Ender](http://ender.jit.su/)
@@ -28,7 +31,7 @@ Some tools for a better workflow.
 * [Composer](http://getcomposer.org/)
 * [Rails Assets](https://rails-assets.org/)
 * [Bundler](http://bundler.io/)
-* [Rudix](http://rudix.org/)
+* [Pip](http://www.pip-installer.org/en/latest/)
 
 ### Tasks Managers
 * [Grunt](http://gruntjs.com/)
@@ -61,3 +64,7 @@ Some tools for a better workflow.
 ## Automation
 * [Node GH](http://nodegh.io/)
 
+## PaaS
+* [Deis](http://deis.io/)
+* [Dokku](https://github.com/progrium/dokku)
+* [Flynn](https://flynn.io/)

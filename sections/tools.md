@@ -33,13 +33,31 @@ Some tools for a better workflow.
 * [Bundler](http://bundler.io/)
 * [Pip](http://www.pip-installer.org/en/latest/)
 
-### Tasks Managers
+### Tasks Runners
 * [Grunt](http://gruntjs.com/)
 * [Gulp](http://gulpjs.com/)
 * [Brunch](http://brunch.io/)
 * [Flour](http://ricardo.cc/cake-flour/)
 * [Guard](http://guardgem.org/)
 * [Automaton](http://indigounited.com/automaton/)
+
+## Automation and Tests
+* [Karma](http://karma-runner.github.io/0.10/index.html)
+* [Mocha](http://visionmedia.github.io/mocha/)
+* [Chai](http://chaijs.com/)
+* [Jasmine](http://jasmine.github.io/2.0/introduction.html)
+* [DalekJS](http://dalekjs.com/)
+* [PhantomJS](http://phantomjs.org/)
+* [CasperJS](http://casperjs.org/)
+* [Ghost Driver](https://github.com/detro/ghostdriver)
+* [SlimerJS](http://slimerjs.org/)
+* [ZombieJs](http://zombie.labnotes.org/)
+* [NightwatchJs](http://nightwatchjs.org/)
+
+## PaaS
+* [Deis](http://deis.io/)
+* [Dokku](https://github.com/progrium/dokku)
+* [Flynn](https://flynn.io/)
 
 ### Design in the Browser
 * [Easel](https://www.easel.io/)
@@ -61,10 +79,5 @@ Some tools for a better workflow.
 * [Require Bin](http://requirebin.com/)
 * [Sass Meister](http://sassmeister.com/)
 
-## Automation
+## Version Control
 * [Node GH](http://nodegh.io/)
-
-## PaaS
-* [Deis](http://deis.io/)
-* [Dokku](https://github.com/progrium/dokku)
-* [Flynn](https://flynn.io/)

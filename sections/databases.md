@@ -1,4 +1,4 @@
-# Databses
+# Databases
 
 * [MariaDB](https://mariadb.org/)
 * [MongoDB](http://www.mongodb.org/)

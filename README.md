@@ -23,3 +23,8 @@ Recently, I decided to organize my bookmarks. So, like a good fellow, I am shari
 
 #### A new repository for robotics stuff with JavaScript
 * [Robot Scripts](https://github.com/vitorbritto/robotscripts)
+
+
+## License
+
+[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto

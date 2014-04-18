@@ -41,7 +41,7 @@ Some tools for a better workflow.
 - [Guard](http://guardgem.org/)
 - [Automaton](http://indigounited.com/automaton/)
 
-## Automation and Tests
+### Automation and Tests
 - [Karma](http://karma-runner.github.io/0.10/index.html)
 - [Mocha](http://visionmedia.github.io/mocha/)
 - [Chai](http://chaijs.com/)
@@ -54,7 +54,7 @@ Some tools for a better workflow.
 - [ZombieJs](http://zombie.labnotes.org/)
 - [NightwatchJs](http://nightwatchjs.org/)
 
-## PaaS
+### PaaS
 - [Deis](http://deis.io/)
 - [Dokku](https://github.com/progrium/dokku)
 - [Flynn](https://flynn.io/)

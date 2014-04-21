@@ -61,6 +61,7 @@ Some helpers, generators and other cool stuff.
 - [Favikon](http://www.favikon.com/)
 
 ### Wireframes
+- [Quirktools](http://quirktools.com/wires/)
 - [Wireframe Builder](http://wireframe.cc/)
 - [Wirefy](http://cjdsie.github.com/wirefy/)
 - [Sketchsheets Repository](http://sneakpeekit.com/browser-sketchsheets/)

@@ -1,19 +1,20 @@
 # Ferramentas
 
-Lista com diversas ferramentas para Desenvolvimento Web
+Lista com diversas ferramentas para Desenvolvimento Web.
 
 ## Sumário
 
-- [Automation](/sections/automation.md)
 - [Apps](/sections/apps.md)
-- [Frameworks](/sections/frameworks.md)
-- [Weapons](/sections/weapons.md)
-- [Databases](/sections/databases.md)
+- [Build](/sections/build.md)
 - [Checklist](/sections/checklist.md)
-- [User Interface](/sections/ui.md)
-- [Jedi Masters](/sections/jedis.md)
+- [Database](/sections/database.md)
+- [Deploy](/sections/deploy.md)
+- [Frameworks](/sections/frameworks.md)
+- [Generators](/sections/generators.md)
 - [Newsletters](/sections/news.md)
-
+- [Online](/sections/online.md)
+- [Testes](/sections/tests.md)
+- [User Interface](/sections/ui.md)
 
 <br/>
 

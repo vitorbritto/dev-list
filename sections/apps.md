@@ -1,4 +1,4 @@
-# Apps
+# Aplicativos
 
 - [Sublime Text](http://www.sublimetext.com/)  - Cross-platform
 - [Brackets](http://brackets.io/) - Cross-platform

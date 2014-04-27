@@ -1,14 +1,15 @@
-## Tools
+# Build
 
-Some tools for a better workflow.
+Ferramentas para ajudar no seu Workflow.
 
-### Preprocessors
+
+## Preprocessors
 - [LESS](http://lesscss.org/)
 - [Sass](http://sass-lang.com/)
 - [Stylus](http://learnboost.github.io/stylus/)
 - [Roole](http://roole.org/)
 
-### Static Generators
+## Static Generators
 - [Yeoman](http://yeoman.io/)
 - [Assemble](http://assemble.io/)
 - [Middleman](http://middlemanapp.com/)
@@ -20,7 +21,7 @@ Some tools for a better workflow.
 - [Cabin](http://www.cabinjs.com/)
 - [Harp](http://harpjs.com/)
 
-### Packages Managers
+## Packages Managers
 - [Rudix](http://rudix.org/)
 - [Homebrew](http://brew.sh/)
 - [Bower](http://bower.io/)
@@ -33,7 +34,7 @@ Some tools for a better workflow.
 - [Bundler](http://bundler.io/)
 - [Pip](http://www.pip-installer.org/en/latest/)
 
-### Tasks Runners
+## Tasks Runners
 - [Grunt](http://gruntjs.com/)
 - [Gulp](http://gulpjs.com/)
 - [Brunch](http://brunch.io/)
@@ -41,25 +42,7 @@ Some tools for a better workflow.
 - [Guard](http://guardgem.org/)
 - [Automaton](http://indigounited.com/automaton/)
 
-### Automation and Tests
-- [Karma](http://karma-runner.github.io/0.10/index.html)
-- [Mocha](http://visionmedia.github.io/mocha/)
-- [Chai](http://chaijs.com/)
-- [Jasmine](http://jasmine.github.io/2.0/introduction.html)
-- [DalekJS](http://dalekjs.com/)
-- [PhantomJS](http://phantomjs.org/)
-- [CasperJS](http://casperjs.org/)
-- [Ghost Driver](https://github.com/detro/ghostdriver)
-- [SlimerJS](http://slimerjs.org/)
-- [ZombieJs](http://zombie.labnotes.org/)
-- [NightwatchJs](http://nightwatchjs.org/)
-
-### PaaS
-- [Deis](http://deis.io/)
-- [Dokku](https://github.com/progrium/dokku)
-- [Flynn](https://flynn.io/)
-
-### Design in the Browser
+## Design in the Browser
 - [Easel](https://www.easel.io/)
 - [Froont](http://froont.com/)
 - [LayoutIt!](http://www.layoutit.com/build)

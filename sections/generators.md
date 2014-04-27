@@ -1,18 +1,8 @@
-# Load your weapons
+# Geradores
 
-Some helpers, generators and other cool stuff.
+Ferramentas para ajuda na criação e desenvolvimento de projetos, geradores e muitas coisas legais.
 
-## Helpers
-- [List of CDNs](http://cdnjs.com/)
-- [Todo MVC](http://addyosmani.github.com/todomvc/)
-- [jQuery Boilerplate](http://br.jqueryboilerplate.com/)
-- [Rainbow - Syntax Highlight](http://craig.is/making/rainbows)
-- [So Fresh](http://sofresh.redpik.net/)
-- [HTML5 Input Patterns](http://html5pattern.com/)
-
-## Generators
-
-### Images
+## Imagens
 - [Subtle Patterns](http://subtlepatterns.com/)
 - [Sprite Cow](http://www.spritecow.com/)
 - [Sprite Pad](http://spritepad.wearekiss.com/)
@@ -25,11 +15,11 @@ Some helpers, generators and other cool stuff.
 - [Lorem pixel](http://lorempixel.com/)
 - [Fake images please?](http://fakeimg.pl/)
 
-### Colors
+## Cores
 - [Hail Pixel](http://color.hailpixel.com/)
 - [colourcode](http://www.colourco.de/)
 
-### Fonts
+## Fontes
 - [Google Web Fonts](http://www.google.com/webfonts)
 - [Font Squirrel](http://www.fontsquirrel.com/)
 - [Cufon](http://cufon.shoqolate.com/generate/)
@@ -39,7 +29,7 @@ Some helpers, generators and other cool stuff.
 - [CupCake Ipsum](http://cupcakeipsum.com/)
 - [Random Text](http://www.randomtext.me/)
 
-### CSS
+## CSS
 - [CSS3 Maker](http://www.css3maker.com/)
 - [CSS3 Generator](http://css3generator.com/)
 - [CSS Drop Shadows](http://nicolasgallagher.com/css-drop-shadows-without-images/demo/)
@@ -48,7 +38,7 @@ Some helpers, generators and other cool stuff.
 - [Stylie - CSS3 Animation](http://jeremyckahn.github.io/stylie/)
 - [CSSMatic](http://www.cssmatic.com/)
 
-### Icons
+## Ícones
 - [Font Awesome](http://fortawesome.github.com/Font-Awesome/)
 - [Fontello](http://fontello.com/)
 - [IconMoon](http://icomoon.io/)
@@ -60,7 +50,7 @@ Some helpers, generators and other cool stuff.
 - [Load Icon generator](http://ajaxload.info/)
 - [Favikon](http://www.favikon.com/)
 
-### Wireframes
+## Wireframes
 - [Quirktools](http://quirktools.com/wires/)
 - [Wireframe Builder](http://wireframe.cc/)
 - [Wirefy](http://cjdsie.github.com/wirefy/)

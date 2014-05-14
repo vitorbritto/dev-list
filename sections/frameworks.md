@@ -40,10 +40,16 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Code Igniter](http://ellislab.com/codeigniter)
 - [Laravel](http://laravel.com/)
 
+### Python
+- [Django](https://www.djangoproject.com)
+- [Flask](http://flask.pocoo.org)
+- [Pyramid](http://docs.pylonsproject.org/en/latest/)
+
 ### WordPress
 - [Bones](http://themble.com/bones/)
 
 ### Ruby
+- [Rails](http://rubyonrails.org)
 - [Sinatra](http://www.sinatrarb.com/)
 
 ## Mobile

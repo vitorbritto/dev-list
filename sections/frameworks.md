@@ -30,6 +30,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [No Backend](http://nobackend.org/)
 - [Montage JS](http://montagejs.org/)
 - [ExtJS](http://www.sencha.com/products/extjs/)
+- [React] (http://facebook.github.io/react/)
 
 ## Back-End
 

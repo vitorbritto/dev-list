@@ -7,7 +7,7 @@ Lista com diversas ferramentas para Desenvolvimento Web.
 - [Apps](/sections/apps.md)
 - [Build](/sections/build.md)
 - [Checklist](/sections/checklist.md)
-- [Database](/sections/database.md)
+- [Database](/sections/databases.md)
 - [Deploy](/sections/deploy.md)
 - [Frameworks](/sections/frameworks.md)
 - [Generators](/sections/generators.md)

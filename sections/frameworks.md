@@ -46,6 +46,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Django](https://www.djangoproject.com)
 - [Flask](http://flask.pocoo.org)
 - [Pyramid](http://docs.pylonsproject.org/en/latest/)
+- [Tornado] (http://www.tornadoweb.org/en/stable/)
 - [web2py](http://www.web2py.com)
 
 ### WordPress

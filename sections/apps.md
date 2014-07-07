@@ -17,4 +17,4 @@
 - [CSS Hat](http://csshat.com/) - Win/Mac
 - [Screenflick](http://www.araelium.com/screenflick) - Mac
 - [Shuttle](http://fitztrev.github.io/shuttle/) - Mac
-- [Atom](https://atom.io/)
+- [Atom](https://atom.io/) - Mac

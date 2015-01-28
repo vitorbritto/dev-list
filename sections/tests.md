@@ -2,7 +2,7 @@
 
 ## TDD, BDD e E2E
 - [Karma](http://karma-runner.github.io/0.10/index.html)
-- [Mocha](http://visionmedia.github.io/mocha/)
+- [Mocha](http://mochajs.org/)
 - [Chai](http://chaijs.com/)
 - [Jasmine](http://jasmine.github.io/2.0/introduction.html)
 - [DalekJS](http://dalekjs.com/)

@@ -61,6 +61,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [jQuery Mobile](http://jquerymobile.com/)
 - [jQTouch](http://jqtjs.com/)
 - [Phone Gap](http://phonegap.com/)
+- [Ionic](http://ionicframework.com/)
 - [Sencha Touch](http://www.sencha.com/products/touch/)
 - [Rachet](http://maker.github.com/ratchet/)
 - [TideSDK](http://www.tidesdk.org/)

@@ -40,6 +40,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Symfony](http://symfony.com/)
 - [Code Igniter](http://ellislab.com/codeigniter)
 - [Laravel](http://laravel.com/)
+- [Phalcon PHP](http://phalconphp.com/pt)
 
 ### Python
 - [Bootle](http://bottlepy.org/docs/dev/index.html)

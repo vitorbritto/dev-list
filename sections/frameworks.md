@@ -13,6 +13,7 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Gumby](http://gumbyframework.com/)
 - [Metro UI](http://metroui.org.ua/)
 - [Material UI](http://material-ui.com/)
+- [Materialize](http://materializecss.com/)
 - [Kule](http://www.kule.tw/)
 - [Metro Bootstrap](http://talkslab.github.io/metro-bootstrap/index.html)
 - [GroundworkCSS](http://groundwork.sidereel.com/home)

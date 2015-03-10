@@ -12,6 +12,8 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Flat UI](http://designmodo.com/flat-free/)
 - [Gumby](http://gumbyframework.com/)
 - [Metro UI](http://metroui.org.ua/)
+- [Material UI](http://material-ui.com/)
+- [Materialize](http://materializecss.com/)
 - [Kule](http://www.kule.tw/)
 - [Metro Bootstrap](http://talkslab.github.io/metro-bootstrap/index.html)
 - [GroundworkCSS](http://groundwork.sidereel.com/home)
@@ -40,6 +42,8 @@ Lista com Frameworks para o âmbito Front-End e Back-End.
 - [Symfony](http://symfony.com/)
 - [Code Igniter](http://ellislab.com/codeigniter)
 - [Laravel](http://laravel.com/)
+- [Phalcon PHP](http://phalconphp.com/pt)
+- [Slim](http://www.slimframework.com/)
 
 ### Python
 - [Bootle](http://bottlepy.org/docs/dev/index.html)

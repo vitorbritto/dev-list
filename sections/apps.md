@@ -8,6 +8,7 @@
 - [Compass.app](http://compass.handlino.com/) - Win/Mac
 - [CSS Hat](http://csshat.com/) - Win/Mac
 - [Fire.app](http://fireapp.handlino.com/) - Cross-platform
+- [PhpStorm](https://www.jetbrains.com/phpstorm/) - Cross-platform
 - [Hammer](http://hammerformac.com/)
 - [ia Writer](http://www.iawriter.com/mac/) - Mac
 - [Less.app](http://incident57.com/less/) - Mac
@@ -19,3 +20,4 @@
 - [Sublime Text](http://www.sublimetext.com/)  - Cross-platform
 - [Vim/Vi] (http://www.vim.org)
 - [WinLESS](http://winless.org/) - Win
+- [WebStorm](https://www.jetbrains.com/webstorm/) - Cross-platform

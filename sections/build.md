@@ -34,6 +34,9 @@ Ferramentas para ajudar no seu Workflow.
 - [Bundler](http://bundler.io/)
 - [Pip](http://www.pip-installer.org/en/latest/)
 
+## Version Manager
+- [RVM](https://rvm.io/) - Ruby Version Manager
+
 ## Tasks Runners
 - [Grunt](http://gruntjs.com/)
 - [Gulp](http://gulpjs.com/)

@@ -7,6 +7,8 @@
 * [WP Snipp](http://wpsnipp.com/)
 * [WP Recipes](http://www.wprecipes.com/)
 * [WPS](http://wp-snippets.com/snippets/)
+* [Laravel Cheat](http://cheats.jesse-obrien.ca/)
+* [Laravel Recipes](http://laravel-recipes.com/)
 
 ## Social Code
 * [Code Plane](https://codeplane.com.br/)

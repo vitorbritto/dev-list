@@ -1,6 +1,6 @@
 # Aplicativos
 
-- [Atom](https://atom.io/)
+- [Atom](https://atom.io/) - Cross-platform
 - [Anvil](http://anvilformac.com/) - Mac
 - [Brackets](http://brackets.io/) - Cross-platform
 - [Code Box](http://www.codeboxapp.com/) - Mac

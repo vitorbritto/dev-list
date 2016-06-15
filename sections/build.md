@@ -4,55 +4,55 @@ Ferramentas para ajudar no seu Workflow.
 
 
 ## Preprocessors
-- [LESS](http://lesscss.org/)
+- [Less](http://lesscss.org/)
 - [Sass](http://sass-lang.com/)
 - [Stylus](http://learnboost.github.io/stylus/)
 - [Roole](http://roole.org/)
 
 ## Static Generators
-- [Yeoman](http://yeoman.io/)
 - [Assemble](http://assemble.io/)
+- [Cabin](http://www.cabinjs.com/)
+- [DocPad](http://docpad.org/)
+- [Ghost](https://ghost.org/)
+- [Harp](http://harpjs.com/)
+- [Hexo](http://zespia.tw/hexo/)
+- [JeKyll](http://jekyllrb.com/)
 - [Middleman](http://middlemanapp.com/)
 - [Serve](http://get-serve.com/)
-- [JeKyll](http://jekyllrb.com/)
-- [DocPad](http://docpad.org/)
-- [Hexo](http://zespia.tw/hexo/)
-- [Ghost](https://ghost.org/)
-- [Cabin](http://www.cabinjs.com/)
-- [Harp](http://harpjs.com/)
+- [Yeoman](http://yeoman.io/)
 
 ## Packages Managers
-- [Rudix](http://rudix.org/)
-- [Homebrew](http://brew.sh/)
 - [Bower](http://bower.io/)
-- [Jam](http://jamjs.org/)
-- [Ender](http://ender.jit.su/)
-- [Volo](http://volojs.org/)
+- [Bundler](http://bundler.io/)
 - [Component](https://github.com/component/component)
 - [Composer](http://getcomposer.org/)
-- [Rails Assets](https://rails-assets.org/)
-- [Bundler](http://bundler.io/)
+- [Ender](http://ender.jit.su/)
+- [Homebrew](http://brew.sh/)
+- [Jam](http://jamjs.org/)
 - [Pip](http://www.pip-installer.org/en/latest/)
+- [Rails Assets](https://rails-assets.org/)
+- [Rudix](http://rudix.org/)
+- [Volo](http://volojs.org/)
 
 ## Version Manager
 - [RVM](https://rvm.io/) - Ruby Version Manager
 
 ## Tasks Runners
-- [Grunt](http://gruntjs.com/)
-- [Gulp](http://gulpjs.com/)
+- [Automaton](http://indigounited.com/automaton/)
 - [Brunch](http://brunch.io/)
 - [Flour](http://ricardo.cc/cake-flour/)
 - [Guard](http://guardgem.org/)
-- [Automaton](http://indigounited.com/automaton/)
+- [Gulp](http://gulpjs.com/)
+- [Grunt](http://gruntjs.com/)
 
 ## Design in the Browser
+- [Bootstrap Magic](http://pikock.github.com/bootstrap-magic)
 - [Easel](https://www.easel.io/)
 - [Froont](http://froont.com/)
-- [LayoutIt!](http://www.layoutit.com/build)
-- [JetStrap](http://jetstrap.com/)
-- [Bootstrap Magic](http://pikock.github.com/bootstrap-magic)
-- [WebFlow](http://www.webflow.com/)
 - [Ionic Creator](http://ionicframework.com/creator/)
+- [JetStrap](http://jetstrap.com/)
+- [LayoutIt!](http://www.layoutit.com/build)
+- [WebFlow](http://www.webflow.com/)
 
 ## Online Editors
 - [Code Pen](http://codepen.io/)

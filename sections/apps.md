@@ -9,7 +9,7 @@
 - [CSS Hat](http://csshat.com/) - Win/Mac
 - [Fire.app](http://fireapp.handlino.com/) - Cross-platform
 - [Hammer](http://hammerformac.com/)
-- [ia Writer](http://www.iawriter.com/mac/) - Mac
+- [Ia Writer](http://www.iawriter.com/mac/) - Mac
 - [Less.app](http://incident57.com/less/) - Mac
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - Cross-platform
 - [Scout](http://mhs.github.com/scout-app/) - Cross-platform

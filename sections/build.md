@@ -35,6 +35,7 @@ Ferramentas para ajudar no seu Workflow.
 - [Volo](http://volojs.org/)
 
 ## Version Manager
+- [NVM](https://github.com/creationix/nvm) - Node Version Manager
 - [RVM](https://rvm.io/) - Ruby Version Manager
 
 ## Tasks Runners

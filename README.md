@@ -1,25 +1,23 @@
-## A BADASS list for faster Web Development
+# Ferramentas
 
-Recently, I decided to organize my bookmarks. So, like a good fellow, I am sharing with you. I hope you enjoy!
+Lista com diversas ferramentas para Desenvolvimento Web.
 
-- [Automation](/sections/automation.md)
+## Sumário
+
 - [Apps](/sections/apps.md)
-- [Frameworks](/sections/frameworks.md)
-- [Weapons](/sections/weapons.md)
-- [Databases](/sections/databases.md)
+- [Build](/sections/build.md)
 - [Checklist](/sections/checklist.md)
-- [User Interface](/sections/ui.md)
-- [Jedi Masters](/sections/jedis.md)
+- [Database](/sections/databases.md)
+- [Deploy](/sections/deploy.md)
+- [Frameworks](/sections/frameworks.md)
+- [Generators](/sections/generators.md)
 - [Newsletters](/sections/news.md)
+- [Online](/sections/online.md)
+- [Testes](/sections/tests.md)
+- [User Interface](/sections/ui.md)
 
+<br/>
 
-#### Also, check **I am your father** repository! Tons of plugins and libs
-* [Check **I am your father** repository](https://github.com/vitorbritto/i-am-your-father)
+---
 
-#### A new repository for robotics stuff with JavaScript
-* [Robot Scripts](https://github.com/vitorbritto/robotscripts)
-
-
-## License
-
-[MIT License](http://vitorbritto.mit-license.org/) © Vitor Britto
+#### [Como Contribuir](https://github.com/cerebrobr/cerebro/blob/master/README.md#como-contribuir)
